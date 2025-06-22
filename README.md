@@ -14,7 +14,7 @@ The goal is to achieve accurate localization and mapping even in GPS-denied envi
     <th>Dataset 00 - Final Visual-Inertial SLAM Results</th>
   </tr>
   <tr>
-    <td><img src="Result/A*-1/Pillars/Pillars_2.png" width="300"></td>
+    <td><img src="Results/Dataset00_comparison.png" width="300"></td>
     <td><img src="Result/A*-5/Pillars/Pillars_2.png" width="300"></td>
     <td><img src="Result/RRT/Pillars/Pillars_2.png" width="300"></td>
   </tr>
