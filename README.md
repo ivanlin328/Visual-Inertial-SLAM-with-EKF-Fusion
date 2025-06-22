@@ -7,20 +7,15 @@ This project implements a **visual-inertial simultaneous localization and mappin
 
 The goal is to achieve accurate localization and mapping even in GPS-denied environments.
 
-<table>
-  <tr>
-    <th>Dataset 00 - IMU vs SLAM Trajectories</th>
-    <th>Dataset 00 - EKF IMU Prediction with Landmarks</th>
-    <th>Dataset 00 - Final Visual-Inertial SLAM Results</th>
-  </tr>
-  <tr>
-    <td><img src="Results/Dataset00_comparison.png" width="300"></td>
-    <td><img src="Results/Landmark_mapping00.png" width="300"></td>
-    <td><img src="Result/RRT/Pillars/Pillars_2.png" width="300"></td>
-  </tr>
-</table>
-
 ---
+# IMU vs SLAM Trajectories
+![IMU vs SLAM Trajectories](Results/Dataset00_comparison.png)
+
+# EKF IMU Prediction with Landmarks
+![EKF IMU Prediction with Landmarks](Results/Dataset00_comparison.png)
+
+# Final Visual-Inertial SLAM Results
+![Final Visual-Inertial SLAM Results](Results/Visual_inertial00.png)
 
 ## Project Structure
 
