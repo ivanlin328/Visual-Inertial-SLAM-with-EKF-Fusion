@@ -15,7 +15,7 @@ The goal is to achieve accurate localization and mapping even in GPS-denied envi
   </tr>
   <tr>
     <td><img src="Results/Dataset00_comparison.png" width="300"></td>
-    <td><img src="Result/A*-5/Pillars/Pillars_2.png" width="300"></td>
+    <td><img src="Results/Landmark_mapping00.png" width="300"></td>
     <td><img src="Result/RRT/Pillars/Pillars_2.png" width="300"></td>
   </tr>
 </table>
