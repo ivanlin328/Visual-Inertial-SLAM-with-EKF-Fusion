@@ -12,7 +12,7 @@ The goal is to achieve accurate localization and mapping even in GPS-denied envi
 ![IMU vs SLAM Trajectories](Results/Dataset00_comparison.png)
 
 # EKF IMU Prediction with Landmarks
-![EKF IMU Prediction with Landmarks](Results/Dataset00_comparison.png)
+![EKF IMU Prediction with Landmarks](Results/Landmark_mapping00.png)
 
 # Final Visual-Inertial SLAM Results
 ![Final Visual-Inertial SLAM Results](Results/Visual_inertial00.png)
